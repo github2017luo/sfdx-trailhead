@@ -11,6 +11,7 @@
   <types>
     <name>ApexClass</name>
     <members>AccountController</members>
+    <members>AccountControllerTest</members>
   </types>
   <types>
     <name>Layout</name>
